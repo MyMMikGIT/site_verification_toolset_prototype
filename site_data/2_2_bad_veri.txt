@@ -1,0 +1,1 @@
+20170131_0000;;;VERI_BAD;;;http://base_url.test/site_directory/;;;http://base_url.test/

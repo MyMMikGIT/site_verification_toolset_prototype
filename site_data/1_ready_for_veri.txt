@@ -1,0 +1,2 @@
+20170123_0009;;;READY_FOR_VERI;;;http://base_url.test/navigation_part/;;;http://base_url.test/
+
